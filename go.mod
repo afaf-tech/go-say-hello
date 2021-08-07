@@ -1,3 +1,3 @@
-module github.com/afaf-tech/go-say-hello
+module github.com/afaf-tech/go-say-hello/v2
 
 go 1.16
